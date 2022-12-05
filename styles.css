@@ -2,6 +2,10 @@ body {
   background-color: #F7E2D6;
 }
 
+img{
+  border-radius: 100%;
+}
+
 hr {
   width: 5%;
   border-style: none;
